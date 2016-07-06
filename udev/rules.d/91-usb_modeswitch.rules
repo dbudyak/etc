@@ -1,0 +1,1 @@
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="19d2", ATTRS{idProduct}=="1225", RUN+="/usr/sbin/usb_modeswitch; eject /dev/sr1"

@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Type=Application
+Name=Screensaver
+Name[ru]=Заставка
+Comment=Launch screensaver and locker program
+Comment[ru]=Запуск заставки и блокировка рабочего стола
+Icon=preferences-desktop-screensaver
+Exec=xscreensaver -no-splash
+TryExec=xscreensaver
+OnlyShowIn=XFCE;

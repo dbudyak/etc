@@ -1,0 +1,4 @@
+# Generated for texlive-langcyrillic	by texlive-module.eclass
+#! cyramstex	pdftex	language.dat	-translate-file=cp227.tcx *cyramstx.ini
+#! cyrtex	pdftex	language.dat	-translate-file=cp227.tcx *cyrtex.ini
+#! cyrtexinfo	pdftex	language.dat	-translate-file=cp227.tcx *cyrtxinf.ini

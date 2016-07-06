@@ -1,0 +1,2 @@
+>=dev-lang/php-7.0.5 mysqli gd fpm
+>=app-eselect/eselect-php-0.9.1 fpm

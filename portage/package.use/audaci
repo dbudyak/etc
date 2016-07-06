@@ -1,0 +1,2 @@
+media-sound/audacious -gtk gtk3 -qt5
+media-plugins/audacious-plugins -gtk gtk3 -qt5

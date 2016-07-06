@@ -1,0 +1,20 @@
+# required by =dev-java/oracle-jdk-bin-1.8.0.45 (argument)
+>=dev-java/oracle-jdk-bin-1.8.0.45 Oracle-BCLA-JavaSE
+# required by skype (argument)
+>=net-im/skype-4.3.0.37-r5 skype-4.0.0.7-copyright
+# required by games-util/steam-client-meta-0-r20150329::steam-overlay[flash]
+# required by games-util/steam-meta-0-r20131107::steam-overlay
+# required by games-util/steam-meta (argument)
+>=www-plugins/adobe-flash-11.2.202.460 AdobeFlash-11.x
+# required by google-talkplugin (argument)
+=www-plugins/google-talkplugin-5.4.2.0 Google-TOS
+# required by www-client/google-chrome-beta (argument)
+>=www-client/google-chrome-beta-44.0.2403.18_p1 google-chrome
+# required by google-chrome (argument)
+>=www-client/google-chrome-47.0.2526.73_p1 google-chrome
+# required by =dev-java/oracle-jdk-bin-1.7.0.80 (argument)
+>=dev-java/oracle-jdk-bin-1.7.0.80:1.7 Oracle-BCLA-JavaSE
+# required by teamviewer (argument)
+>=net-misc/teamviewer-11.0.53191-r1 TeamViewer
+# required by virtualbox-bin (argument)
+>=app-emulation/virtualbox-bin-5.0.20.106931 PUEL

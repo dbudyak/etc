@@ -1,0 +1,25 @@
+# Generated for texlive-basic	by texlive-module.eclass
+luatex	luatex	language.def,language.dat.lua	luatex.ini
+dviluatex	luatex	language.def,language.dat.lua	dviluatex.ini
+luajittex	luajittex	language.def,language.dat.lua	luatex.ini
+mf	mf-nowin	-	-translate-file=cp227.tcx mf.ini
+pdftex	pdftex	language.def	-translate-file=cp227.tcx *pdfetex.ini
+etex	pdftex	language.def	-translate-file=cp227.tcx *etex.ini
+pdfetex	pdftex	language.def	-translate-file=cp227.tcx *pdfetex.ini
+tex	tex	-	tex.ini
+# Generated for texlive-langcyrillic	by texlive-module.eclass
+#! cyramstex	pdftex	language.dat	-translate-file=cp227.tcx *cyramstx.ini
+#! cyrtex	pdftex	language.dat	-translate-file=cp227.tcx *cyrtex.ini
+#! cyrtexinfo	pdftex	language.dat	-translate-file=cp227.tcx *cyrtxinf.ini
+# Generated for texlive-latex	by texlive-module.eclass
+latex	pdftex	language.dat	-translate-file=cp227.tcx *latex.ini
+pdflatex	pdftex	language.dat	-translate-file=cp227.tcx *pdflatex.ini
+dvilualatex	luatex	language.dat,language.dat.lua	dvilualatex.ini
+lualatex	luatex	language.dat,language.dat.lua	lualatex.ini
+#! luajitlatex	luajittex	language.dat,language.dat.lua	lualatex.ini
+mptopdf	pdftex	-	-translate-file=cp227.tcx mptopdf.tex
+# Generated for texlive-mathextra	by texlive-module.eclass
+amstex	pdftex	-	-translate-file=cp227.tcx *amstex.ini
+# Generated for texlive-xetex	by texlive-module.eclass
+xetex	xetex	language.def	-etex xetex.ini
+xelatex	xetex	language.dat	-etex xelatex.ini

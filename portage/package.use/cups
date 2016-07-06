@@ -1,0 +1,1 @@
+net-print/cups-filters -dbus -foomatic -jpeg -perl -png -static-libs -tiff -zeroconf

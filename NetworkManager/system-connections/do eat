@@ -1,0 +1,21 @@
+[connection]
+id=do eat
+uuid=f26026cc-4735-4e80-8621-b4b7eff2095d
+type=wifi
+permissions=user:dbudyak:;
+secondaries=
+
+[wifi]
+mac-address=80:19:34:39:CC:90
+mac-address-blacklist=
+mode=infrastructure
+seen-bssids=
+ssid=do eat
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+dns-search=
+method=auto

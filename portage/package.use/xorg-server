@@ -1,0 +1,18 @@
+>=x11-base/xorg-server-1.17.4 kdrive
+# required by kde-plasma/kwin-5.4.95::kde
+# required by kde-plasma/plasma-workspace-5.4.95::kde
+# required by kde-plasma/kdeplasma-addons-5.4.95::kde
+# required by kde-plasma/plasma-meta-5.4.95::kde
+# required by @selected
+# required by @world (argument)
+>=media-libs/mesa-11.0.6 wayland
+# required by app-emulation/docker-1.10.3::gentoo[seccomp]
+# required by app-emulation/docker (argument)
+>=sys-libs/libseccomp-2.3.0 static-libs
+# required by dev-texlive/texlive-xetex-2015::gentoo
+# required by texlive-xetex (argument)
+>=app-text/texlive-core-2015 xetex
+# required by dev-python/sqlalchemy-1.0.12::gentoo[python_targets_python3_4]
+# required by app-misc/geeknote-9999::necromancy-overlay
+# required by geeknote (argument)
+>=dev-lang/python-3.4.4:3.4 sqlite

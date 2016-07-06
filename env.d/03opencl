@@ -1,0 +1,4 @@
+# Configuration file for eselect
+# This file has been automatically generated.
+LDPATH="/usr/lib32/OpenCL/vendors/mesa:/usr/lib64/OpenCL/vendors/mesa"
+OPENCL_PROFILE="mesa"

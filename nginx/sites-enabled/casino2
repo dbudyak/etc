@@ -1,0 +1,16 @@
+server {
+	listen 80;
+	server_name ru.casino2.cashhero.mobi;
+	root /var/www/casino2;
+	index index.html index.htm;
+	access_log /var/log/nginx/cashhero/casino2.access.log;
+	error_log /var/log/nginx/cashhero/casino2.error.log;
+	location / {
+		index  index.html index.htm;
+		rewrite ^([^.]*[^/])$ $1/ permanent;
+	}
+	location ~*\.(js|css|png|jpg|gif|pdf|mp3|mp4|avi|mpeg|mpg|mkv|mov|flv|swf|wav|php|txt|fonts|eot|svg|ttf|woff|ico)$ {
+		include /etc/nginx/mime.types;
+		try_files $uri =404;
+	}
+}

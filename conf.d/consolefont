@@ -1,0 +1,21 @@
+#consolefont="cyr-sun16"
+#CONSOLEFONT="UniCyr_8x16"
+#consolefont="ter-k16v"
+
+#CONSOLEFONT="ter-u14b"
+#CONSOLETRANSLATION="cp866_to_uni"
+
+consolefont="ter_k14n"
+
+# The consolefont service is not activated by default. If you need to
+# consolefont specifies the default font that you'd like Linux to use on the
+# console.  You can find a good selection of fonts in /usr/share/consolefonts;
+#consolefont="cyr-sun16"
+# the default one.  Have a look in /usr/share/consoletrans for a selection of
+# map files you can use.
+#consoletranslation="8859-1_to_uni"
+
+# unicodemap is the unicode map file to use. Leave commented to use the
+# default one. Have a look in /usr/share/unimaps for a selection of map files
+# you can use.
+#unicodemap="iso01"

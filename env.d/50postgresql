@@ -1,0 +1,4 @@
+# Configuration file for eselect
+# This file has been automatically generated.
+LDPATH="/usr/lib/postgresql:/usr/lib64/postgresql:/usr/lib64/postgresql-9.5/lib64/"
+MANPATH="/usr/share/postgresql/man/:/usr/share/postgresql-9.5/man/"

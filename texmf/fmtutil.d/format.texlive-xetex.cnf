@@ -1,0 +1,3 @@
+# Generated for texlive-xetex	by texlive-module.eclass
+xetex	xetex	language.def	-etex xetex.ini
+xelatex	xetex	language.dat	-etex xelatex.ini

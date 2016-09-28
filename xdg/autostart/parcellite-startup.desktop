@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Parcellite
-Comment=Clipboard Manager
-Comment[ru]=Менеджер буфера обмена
-Icon=parcellite
-Exec=parcellite
-Terminal=false
-Type=Application
-X-GNOME-Autostart-enabled=true

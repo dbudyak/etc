@@ -1,7 +1,0 @@
-cross-armv6j-hardfloat-linux-gnueabi/binutils arm ~arm -amd64 -~amd64
-cross-armv6j-hardfloat-linux-gnueabi/gcc arm ~arm -amd64 -~amd64
-cross-armv6j-hardfloat-linux-gnueabi/linux-headers arm ~arm -amd64 -~amd64
-cross-armv6j-hardfloat-linux-gnueabi/glibc arm ~arm -amd64 -~amd64
-cross-armv6j-hardfloat-linux-gnueabi/gdb arm ~arm -amd64 -~amd64
-# required by sys-kernel/raspberrypi-sources (argument)
-=sys-kernel/raspberrypi-sources-4.1.9999 **

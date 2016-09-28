@@ -1,8 +1,0 @@
-[VPN Connection]
-name=openconnect
-service=org.freedesktop.NetworkManager.openconnect
-program=/usr/libexec/nm-openconnect-service
-
-[GNOME]
-auth-dialog=/usr/libexec/nm-openconnect-auth-dialog
-properties=/usr/lib64/NetworkManager/libnm-openconnect-properties

@@ -1,2 +1,0 @@
-#!/bin/sh
-exec nice /usr/bin/pfl >/dev/null

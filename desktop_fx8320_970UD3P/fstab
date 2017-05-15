@@ -1,0 +1,10 @@
+/dev/sda1	/			ext4	defaults,noatime,nodiratime,discard	0 1
+/dev/sda2       /home			ext4	defaults,noatime,nodiratime,discard	0 1
+
+tmpfs           /tmp            	tmpfs   size=7G,noatime        			0 0
+tmpfs           /var/tmp        	tmpfs   size=1G,noatime         		0 0
+
+/dev/sdb5	/mnt/stor		ntfs-3g	defaults				0 1
+#/dev/sda3	/mnt/win		ntfs-3g	defaults				0 1
+#/dev/sdb3	swap			swap	swap,defaults				0 0
+#/dev/sdb4	/tmp			ext4	defaults				0 0

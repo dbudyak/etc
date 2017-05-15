@@ -1,0 +1,15 @@
+# required by oracle-jdk-bin (argument)
+>=dev-java/oracle-jdk-bin-1.8.0.60-r2 Oracle-BCLA-JavaSE
+>=www-plugins/adobe-flash-11.2.202.521 AdobeFlash-11.x
+# required by =dev-java/oracle-jdk-bin-1.7.0.80 (argument)
+>=dev-java/oracle-jdk-bin-1.7.0.80:1.7 Oracle-BCLA-JavaSE
+# required by skype (argument)
+>=net-im/skype-4.3.0.37-r5 skype-4.0.0.7-copyright
+# required by dev-db/squirrel-sql-9999::mva[mssql]
+# required by squirrel-sql (argument)
+>=dev-java/jdbc-mssqlserver-4.0.2206.100 MSjdbcEULA40
+# required by google-chrome-beta (argument)
+>=www-client/google-chrome-beta-47.0.2526.69_p1 google-chrome
+# required by google-chrome (argument)
+>=www-client/google-chrome-46.0.2490.86_p1 google-chrome
+app-editors/sublime-text Sublime
